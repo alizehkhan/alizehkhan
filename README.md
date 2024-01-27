@@ -16,4 +16,4 @@ _Offline, I am an avid hiker, CrossFitter, improv performer and minimalist._
 
 💚 No abstraction > wrong abstraction.
 
-💙 Component APIs that are intuitive first then discoverable.
+💙 APIs that are intuitive first then discoverable.
