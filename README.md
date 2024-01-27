@@ -14,4 +14,6 @@ _Offline, I am an avid hiker, CrossFitter, improv performer and minimalist._
 
 💛 Use case coverage > code coverage.
 
-💚 No abstraction > wrong abstraction
+💚 No abstraction > wrong abstraction.
+
+💙 Component APIs that are intuitive first then discoverable.
