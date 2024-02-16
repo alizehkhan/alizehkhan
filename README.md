@@ -8,12 +8,12 @@ _Offline, I am an avid hiker, CrossFitter, improv performer and minimalist._
 
 ---
 
-❤️ Choose the least powerful language suitable for the job.
+❤️ First intuitive, then discoverable, and last standardized.
 
-🧡 Simple & accessible design > fancy design.
+🧡 Choose the least powerful language suitable for the job.
 
-💛 Use case coverage > code coverage.
+💛 Simple & accessible design > fancy design.
 
 💚 No abstraction > wrong abstraction.
 
-💙 Intuitive first then discoverable.
+💙 Use case coverage > code coverage.
