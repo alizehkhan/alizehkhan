@@ -1,16 +1,19 @@
-### Hi there 👋
+# Good design is about managing attention
 
-<!--
-**alizehkhan/alizehkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Engineer and Designer. I build and advocate for web experiences that prioritise content, inclusivity and simplicity.
 
-Here are some ideas to get you started:
+I code in `react` `typescript` `css` `html`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am nerdy about `design systems` `accessibility` `form ux`.
+
+---
+
+❤️ First intuitive, then discoverable.
+
+🧡 Choose the least powerful language suitable for the job.
+
+💛 Design that respects convention over novelty
+
+💚 No abstraction is better than the wrong abstraction.
+
+💙 Use case coverage over code coverage.
