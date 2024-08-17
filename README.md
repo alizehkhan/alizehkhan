@@ -1,19 +1,19 @@
-# Good design is about managing attention
+# I'm a Frontend Engineer and Designer. I build and advocate for web experiences that prioritise content, inclusivity and simplicity.
 
-I'm a Frontend Engineer and Designer. I build and advocate for web experiences that prioritise content, inclusivity and simplicity.
-
-I code in `react` `typescript` `css` `html`
+I code in `html` `css` `typescript` `react`.
 
 I am nerdy about `design systems` `accessibility` `form ux`.
 
 ---
 
-❤️ First intuitive, then discoverable.
+❤️ Good interaction design is about managing attention.
 
-🧡 Choose the least powerful language suitable for the job.
+🧡 First intuitive, then discoverable.
 
-💛 Design that respects convention over novelty
+💛 Choose the least powerful language suitable for the job.
 
-💚 No abstraction is better than the wrong abstraction.
+💚 Design that respects convention over novelty
 
-💙 Use case coverage over code coverage.
+💙 No abstraction is better than the wrong abstraction.
+
+💜 Use case coverage over code coverage.
