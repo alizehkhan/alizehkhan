@@ -2,18 +2,18 @@
 
 I code in `html` `css` `typescript` `react`.
 
-I am nerdy about `design systems` `accessibility` `form ux`.
+I specialise in `design systems` `accessibility` `form ux`.
 
 ---
 
-❤️ Good interaction design is about managing attention.
+❤️ Choose the least powerful language suitable for the job.
 
 🧡 First intuitive, then discoverable.
 
-💛 Choose the least powerful language suitable for the job.
+💛 No abstraction is better than the wrong abstraction.
 
-💚 Design that respects convention over novelty
+💚 Use case coverage over code coverage.
 
-💙 No abstraction is better than the wrong abstraction.
+💙 Good interaction design is about managing attention.
 
-💜 Use case coverage over code coverage.
+💜 Design that respects convention over novelty.
