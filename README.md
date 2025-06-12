@@ -1,6 +1,6 @@
-# I'm a Frontend Engineer and Designer. I build and advocate for web experiences that prioritise content, inclusivity and simplicity.
+# I build and advocate for web experiences that prioritise content, inclusivity and simplicity.
 
-I code in `html` `css` `typescript` `react`.
+I identify as a designer who prefers to work through the medium of code, specifically `html` `css` `typescript` and `react`.
 
 I specialise in `design systems` `accessibility` `form ux`.
 
