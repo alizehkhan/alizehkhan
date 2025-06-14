@@ -1,6 +1,6 @@
 # I build and advocate for web experiences that prioritise content, inclusivity and simplicity.
 
-I am a designer who works through the medium of code — `html` `css` `typescript` and `react`.
+I self-identify as a designer who prefers to work through the medium of code — `html` `css` `typescript` and `react`.
 
 I specialise in `design systems` `accessibility` `form ux`.
 
